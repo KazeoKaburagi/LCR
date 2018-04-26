@@ -1,0 +1,32 @@
+/*header*/
+.header .info{
+    padding-top: 63px; 
+}
+.header .fa-envelope{
+    padding-left: 30px;
+    color: red;
+}
+.header .fa-phone{
+    color: red;
+}
+.header .navbar-bot{
+    background-color: transparent;
+}
+.header .navbar-bot ul li:hover{
+    background-color: transparent;
+}
+.header .navbar-bot ul li a{
+    color: white;
+    font-weight: bold;
+}
+.header .line{
+    border: 2px solid red;
+}
+/*akhir header*/
+
+/*slider*/
+
+.slider .carousel-inner{
+    position: relative;
+}
+/*akhir slider*/
