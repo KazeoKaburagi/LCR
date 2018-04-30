@@ -14,9 +14,6 @@
 .header .fa-phone{
     color: red;
 }
-.header .navbar-bot .menu ul li a:hover{
-    background-color: transparent;
-}
 .header .navbar-bot{
     width: 100%;
     position: absolute;
@@ -34,6 +31,14 @@
 }
 .header .navbar-bot ul li a:hover{
     color: deepskyblue;
+    background-color: transparent;
+}
+.header .navbar-bot ul li a:active{
+    background-color: transparent;
+}
+.header .navbar-bot ul li a:focus{
+    background-color: transparent;
+    color: crimson;
 }
 .header .navbar-bot ul li a{
     color: white;
