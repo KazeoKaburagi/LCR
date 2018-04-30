@@ -1,0 +1,102 @@
+/*header*/
+.header .info{
+    padding-top: 58px; 
+    padding-bottom: 9px;
+}
+.header .info {
+    font-size: 14px;
+    font-weight: bold;
+}
+.header .fa-envelope{
+    padding-left: 30px;
+    color: red;
+}
+.header .fa-phone{
+    color: red;
+}
+.header .navbar-bot .menu ul li a:hover{
+    background-color: transparent;
+}
+.header .navbar-bot{
+    width: 100%;
+    position: absolute;
+    z-index: 2;
+    left: 0px;
+    background-color: transparent;
+}
+.header .navbar-bot .menu{
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.header .navbar-bot ul li:hover{
+    background-color: transparent;
+}
+.header .navbar-bot ul li a:hover{
+    color: deepskyblue;
+}
+.header .navbar-bot ul li a{
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding-right: 28px;
+}
+.header .line{
+    border: 2px solid red;
+}
+/*akhir header*/
+
+/*slider*/
+
+.slider .carousel-inner{
+    position: relative;
+    z-index: 1;
+}
+.slider .img-fluid{
+    background-attachment: fixed;
+	background-size: cover;
+    width: 100%;
+}
+.slider .bg{
+    position: absolute;
+    z-index: 3;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.slider .carousel-caption{
+    position: absolute;
+    z-index: 4;
+    left: 120px;
+    top: 152px;
+    color: white;
+    text-align: left;
+}
+.slider .carousel-caption .title{
+    font-size: 12px;
+}
+.slider .carousel-caption .subtitle1{
+    font-size: 34px;
+    padding-top: 9px;
+    padding-bottom: 2px;
+}
+.slider .carousel-caption .subtitle2{
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+.slider .btn{
+    background-color: #ec2327;
+    padding: 13px 33px;
+}
+.slider .btn a{
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+.slider .simbol{
+    position: absolute;
+    right: 0px;
+    bottom: 10px;
+    z-index: 5;
+}
+/*akhir slider*/
