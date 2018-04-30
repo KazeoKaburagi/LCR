@@ -142,13 +142,17 @@
                     </div>
                 </div> 
             <!-- symbol slider-->
-                <nav aria-label="...">
-                    <ul class="pagination pagination-sm simbol">
-                        <li class="page-item"><a class="page-link" href="#zCarousel" tabindex="-1" data-slide-to="0">1</a></li>
-                        <li class="page-item"><a class="page-link" href="#zCarousel" data-slide-to="1">2</a></li>
-                        <li class="page-item"><a class="page-link" href="#zCarousel" data-slide-to="2">3</a></li>
-                    </ul>
-                </nav>    
+              <div class="page">
+               <div class="container">
+                    <nav aria-label="...">
+                        <ul class="pagination pagination-sm simbol">
+                            <li class="page-item"><a class="page-link" href="#zCarousel" tabindex="-1" data-slide-to="0">1</a></li>
+                            <li class="page-item"><a class="page-link" href="#zCarousel" data-slide-to="1">2</a></li>
+                            <li class="page-item"><a class="page-link" href="#zCarousel" data-slide-to="2">3</a></li>
+                        </ul>
+                    </nav>  
+                </div> 
+              </div> 
         </div>
 </section>
 <!--akhir slider-->
