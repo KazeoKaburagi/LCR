@@ -52,7 +52,7 @@
                  <div class="line"></div>
                  <i class="fa fa-phone">&nbsp &nbsp +62 031-99103048</i>
                  <div class="fa fa-envelope">&nbsp &nbsp info@calsindo.co.id</div>
-                 <div class="title">copyright<div class="fa fa-copyright"></div>2018 PT.Light Calsindo Raya, Indonesia. All Right Reserved<br>WEbsite by Mark Design</div>
+                 <div class="title">copyright<div class="fa fa-copyright"></div>2018 PT.Light Calsindo Raya, Indonesia. All Right Reserved<br>Website by Mark Design</div>
             </div>
            </div>
         </div>
