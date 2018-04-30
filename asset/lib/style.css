@@ -1,0 +1,83 @@
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+   position: relative;
+   min-height: 1px;
+   padding-right: 10px;
+   padding-left: 10px;
+}
+.col-xs-15 {
+   width: 20%;
+   float: left;
+}
+
+@media (min-width: 768px) {
+.col-sm-15 {
+       width: 20%;
+       float: left;
+   }
+}
+
+
+.client p{
+    text-align: center;
+    padding-top: 40px;
+    margin-bottom: 44px;
+    font-weight: bold;
+}
+
+/*footer*/
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #121212;
+    height: 240px;
+    text-align: center;
+}
+.foot img{
+    padding-top: 60px;
+}
+.subtitle{
+    font-size: 12px;
+    text-align: left;
+    padding-top: 30px;
+    color: #aaaaaa;
+}
+.foot p{
+    font-size: 13px;
+    font-weight: bold;
+    color: #ec2327;
+    margin-bottom: 0px;
+    margin-top: -120px;
+    margin-right: 310px;
+}
+.foot .line{
+    border: 1px solid ;
+    width: 400px;
+    margin-left: 764px;
+    margin-right: 0px;
+    border-bottom: right;
+    margin-top: 5px;
+}
+.foot i {
+    font-weight: bold;
+    color: white;
+    margin-right: 30px;
+    padding-top: 10px;
+}
+
+.fa-envelope{
+    color: white;
+    margin-right: 100px;
+}
+.title{
+    font-size: 12px;
+    text-align: right;
+    padding-top: 30px;
+}
+.i .fa-copyright{
+    color: #121212;
+}
